@@ -4,6 +4,17 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: docs
+  label: Docs
+  match: "**/*"
+- type: heading
+  label: Heading
+- type: directory
+  path: carpeta
+  label: Carpetas
+  create: all
+  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
