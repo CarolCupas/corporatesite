@@ -2,14 +2,14 @@ url: https://carolcupaslab.netlify.app/
 # baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Carol Cupas's LAB
+email: hola@carolcupas.com
+description: "Learn about my professional and personal experience that have allowed me to start my venture and achieve goals that I never imagined."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Carol Cupas
   pic: 1
   position: Lead Designer
   social:
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Madrid, 28039
+  - line: Spain
 
 # Build settings
 markdown: kramdown
