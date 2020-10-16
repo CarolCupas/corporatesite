@@ -4,7 +4,7 @@ url: https://carolcupaslab.netlify.app/
 # Site settings
 title: Carol Cupas's LAB
 email: hola@carolcupas.com
-description: "Learn about my professional and personal experience that have allowed me to start my venture and achieve goals that I never imagined."
+description: "Discover about my services, career and personal experiences. Let's meet and embark on an adventure to achieve goals we never imagined."
 
 
 # Team names, titles and social links
@@ -20,7 +20,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: CC
   pic: 2
   position: Lead Marketer
   social:
@@ -31,7 +31,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: CC
   pic: 3
   position: Lead Developer
   social:
@@ -42,18 +42,18 @@ people:
     - title: google-plus
       url: #
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, stack-overflow, twitter, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
+  - title: linkedin
+    url: https://www.linkedin.com/in/carolcupaspitti/
+  - title: instagram
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: facebook
+    url: 
+  #- title: bitbucket 
+  #  url: http://bitbucket.org/jekyll
+  #- title: github
+  #  url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
