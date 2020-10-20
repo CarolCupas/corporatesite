@@ -30,9 +30,6 @@ fields:
   name: project-date
   label: project-date
 - type: text
-  name: client
-  label: client
-- type: text
   name: category
   label: category
 - type: textarea
