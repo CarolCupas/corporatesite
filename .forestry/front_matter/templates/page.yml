@@ -33,4 +33,5 @@ fields:
   type: boolean
   label: toggle
 pages:
+- colaborations.md
 - professionalprofile.md
