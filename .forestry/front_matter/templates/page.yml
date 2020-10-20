@@ -32,3 +32,5 @@ fields:
 - name: toggle
   type: boolean
   label: toggle
+pages:
+- professionalprofile.md
