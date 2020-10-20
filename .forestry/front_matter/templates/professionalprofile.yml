@@ -11,24 +11,12 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: number
-  name: modal-id
-  label: modal-id
 - type: datetime
   name: date
   label: date
 - type: file
   name: img
   label: img
-- type: file
-  name: thumbnail
-  label: thumbnail
-- type: text
-  name: alt
-  label: alt
-- type: text
-  name: project-date
-  label: project-date
 - type: text
   name: category
   label: category
