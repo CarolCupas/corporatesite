@@ -7,6 +7,8 @@ layout: page
 toggle: false
 
 ---
+
+---
 I have been tremendously privileged to meet bright people and be able to collaborate with some of their magnificent projects, such as:
 
 # Matrimonios ágiles

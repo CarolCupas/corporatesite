@@ -1,0 +1,38 @@
+---
+layout: base
+---
+
+<div id="content" class="site-content">
+  <main id="main" class="site-main inner">
+
+    <div class="post-feed">
+      
+      {% for post in site.posts %}
+      <article class="post">
+          <h2 class="post-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
+
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+        <div class="post-content-preview">
+            {{ post.content | strip_html | truncate:200 }}
+        </div>
+
+        <div class="post-content">
+          <p>{{ post.excerpt }}</p>
+        </div><!-- .post-content -->
+
+        <p class="read-more">
+          <a class="read-more-link"
+            href="{{ post.url | relative_url }}">{{ site.data.translations['readPosts'][page.lang] }}<span
+              class="icon-arrow-right" aria-hidden="true"></span></a>
+        </p>
+      </article><!-- .post -->
+      {% endfor %}
+    </div><!-- .post-feed -->
+
+  </main><!-- .site-main -->
+
+</div><!-- .site-content -->
