@@ -1,7 +1,8 @@
 ---
 title: Friendship without frontiers
 date: 2020-03-21T23:00:00.000+00:00
-thumb_img_path: ''
+thumb_img_path: '/img/photo/CC ML AC.jpg'
+#content_img_path: "/img/photo/CC ML AC.jpg"
 excerpt: It's said that friends are a treasure and yes they are because good friends
   are scarce today. Having people interested in knowing how you are, became having
   followers on social networks, however, having people who make plans to meet and
@@ -9,7 +10,6 @@ excerpt: It's said that friends are a treasure and yes they are because good fri
 hide_header: false
 layout: post
 subtitle: ''
-content_img_path: "/img/photo/CC ML AC.jpg"
 permalink: friendship-without-frontiers
 lang: en
 translate-ref: amigos-sin-fronteras
