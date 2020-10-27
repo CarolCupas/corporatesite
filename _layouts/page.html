@@ -1,0 +1,19 @@
+---
+layout: body
+---
+
+  <div id="page" class="post">
+        <header class="modal-body">
+          <h1 class="post-title">{{ page.title }}</h1>
+        </header><!-- .post-header -->
+        {% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}
+        {% if subtitle_is_not_empty %}
+        <div class="post-subtitle">
+          {{ page.subtitle }}
+        </div><!-- .post-subtitle -->
+        {% endif %}
+        <div class="post-content">
+          {{ content }}
+        </div><!-- .post-content -->
+
+  </div><!-- .site-content -->
