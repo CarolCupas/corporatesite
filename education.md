@@ -1,5 +1,5 @@
 ---
-title: education
+title: Education
 subtitle: ''
 image: '/img/photo/CC BDBI.jpg'
 blocks: []

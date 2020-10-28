@@ -1,5 +1,5 @@
 ---
-title: colaborations
+title: Colaborations
 subtitle: ''
 image: '/img/photo/carol lateral arte.jpg'
 blocks: []

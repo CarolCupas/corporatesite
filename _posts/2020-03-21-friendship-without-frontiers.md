@@ -1,15 +1,14 @@
 ---
+layout: post
 title: Friendship without frontiers
+subtitle: ''
 date: 2020-03-21T23:00:00.000+00:00
-thumb_img_path: '/img/photo/CC ML AC.jpg'
-#content_img_path: "/img/photo/CC ML AC.jpg"
+thumb_img_path: 
 excerpt: It's said that friends are a treasure and yes they are because good friends
   are scarce today. Having people interested in knowing how you are, became having
   followers on social networks, however, having people who make plans to meet and
   see each other, go on a picnic or watch a movie at home is priceless.
-hide_header: false
-layout: post
-subtitle: ''
+
 permalink: friendship-without-frontiers
 lang: en
 translate-ref: amigos-sin-fronteras
@@ -23,7 +22,7 @@ Since young, I understood what Jesus meant in my life, he was the friend who lis
 
 Upon arriving at Madrid, I didn't know what church to attend until, thanks to Marvin, we found  [**Amistad Cristiana**](https://amistadcristianamadrid.org/ "AmistadCristiana"). From the first day, we felt among friends and it's the AC's DNA is to welcome people to introduce them to Jesus, that's why I felt as I met them since ever because I already met Jesus.
 
-![](/img/photo/CC Amistades arte.jpg)
+![](/img/photo/CC ML AC.jpg)
 
 Honestly, they are a blessing and are a second family that shows us we aren't alone. Thanks!
 
