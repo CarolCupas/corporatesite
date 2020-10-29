@@ -2,7 +2,7 @@ url: https://carolcupas.com/
 # baseurl: /
 
 # Site settings
-title: Carol Cupas's LAB
+title: Carol Cupas's Lab
 email: hola@carolcupas.com
 description: "Discover about my services, career and personal experiences. Let's meet and embark on an adventure to achieve goals we never imagined."
 
@@ -12,34 +12,13 @@ people:
 - name: Carol Cupas
   pic: 1
   position: Lead Designer
+  excerpt: I am passionate about technology, photography, graphic design, and nature. During 2020, I reinvented myself to offer consulting in web solutions according to the needs of companies such as the creation of the digital logo, website, social networks, professional email, data analytics, among others. These solutions aim to help companies have a presence in digital media to present their products and/or services online.
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: stack-overflow
-      url: #
-
-- name: CC
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: CC
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, stack-overflow, twitter, etc.)
