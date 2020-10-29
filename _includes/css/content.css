@@ -157,3 +157,12 @@ img {
 .site-main {
   padding-bottom: 1.66667em;
 }
+
+/* FONT PATH
+ * -------------------------- */
+ @font-face {
+  font-family: 'Carolissa';
+  src: url('/css/font-cc/Carolissa.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
