@@ -308,7 +308,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 600px;
         padding-bottom: 200px;
     }
 
@@ -641,6 +641,7 @@ section h3.section-subheading {
 .team-member {
     margin-bottom: 50px;
     text-align: center;
+    vertical-align: middle;
 }
 
 .team-member img {
@@ -655,7 +656,7 @@ section h3.section-subheading {
 }
 
 .team-member p {
-    margin-top: 0;
+    margin-top: 60px;
 }
 
 aside.clients img {
@@ -870,4 +871,8 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+.addspc{
+    text-align: center;
 }
