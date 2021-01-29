@@ -13,7 +13,7 @@ toggle: false
 
 #### Master's degree in Big Data & Business Intelligence
 
-Next IBS & Universitat de Lleida, Madrid (2018 - 2019)
+Next IBS & Universitat de Lleida, Spain (2018 - 2019)
 
 #### Master's degree in Professional Higher Education
 
@@ -118,36 +118,36 @@ Infosys, India (2006)
 
 #### Developer BI BW
 
-CVOSoft Panamá (2012)
+CVOSoft Panama (2012)
 
 #### Crystal Reports 2
 
-New Horizonts Panamá (2011)
+New Horizonts Panama (2011)
 
 #### Sofware Quality Management
 
-INADEH Panamá (2009)
+INADEH Panama (2009)
 
 #### SQL Server Reporting Reports
 
-Microsoft Panamá, (2009)
+Microsoft Panama, (2009)
 
 #### Sharepoint Designer 2
 
-New Horizonts Panamá, (2009)
+New Horizonts Panama, (2009)
 
 #### Microsoft Access
 
-Microsoft Panamá, (2009)
+Microsoft Panama, (2009)
 
 #### Java
 
-IEEE Panamá, (2007)
+IEEE Panama, (2007)
 
 #### Business Object X1 R2
 
-Cibernética Panamá, (2007)
+Cibernetica Panama, (2007)
 
 #### Fast Track to PowerBuilder 10
 
-Cibernética Panamá, (2007)
+Cibernetica Panama, (2007)
