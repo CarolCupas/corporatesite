@@ -1,10 +1,27 @@
 url: https://www.carolcupas.com/
 # baseurl: /
 
+# HTTP header Content-Security-Policy during development with jekyll serve
+# fix Access-Control-Allow-Origin (CORS origin) - only Localsite
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+
 # Site settings
 title: Carol Cupas's Lab
 email: hola@carolcupas.com
 description: "Discover about my services, career and personal experiences. Let's meet and embark on an adventure to achieve goals we never imagined."
+tagline: Creatividad, inspiración y asesoría para el diseño de páginas webs y contenido de redes sociales  
+slogan: "Soluciones web para negocios digitales"
+
+#logo-white: 'img/logos/CC_logo.png'
+logo: 'img/logos/CC_logo.png'
+favicon: 'img/icons/favicon.ico'
+disqus: 'carolcupaslab'
+
+#calendar_event: https://shorturl.at/dehmx
+#form_comunidades: https://bit.ly/33QYNAX
+
 
 reCAPTCHA_key: 6LdA-L0ZAAAAAJI_x0inm8igBL17L66xyYsbF3v-
 
@@ -30,6 +47,8 @@ social:
     url: https://www.instagram.com/carolcupas/
   - title: facebook
     url: https://www.facebook.com/carolcupaslab/
+  #- title: twitter
+  #  url: hhttps://twitter.com/
   #- title: bitbucket 
   #  url: http://bitbucket.org/jekyll
   #- title: github
@@ -43,3 +62,12 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+plugins:
+  # - jekyll-feed
+  # - jekyll-paginate
+  # - jekyll-sitemap
+  # - jekyll-seo-tag
+  # - jekyll-tidy
+  #- jekyll-compress-images
+
