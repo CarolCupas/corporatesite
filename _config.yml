@@ -15,8 +15,8 @@ tagline: Creatividad, inspiración y asesoría para el diseño de páginas webs 
 slogan: "Soluciones web para negocios digitales"
 
 #logo-white: 'img/logos/CC_logo.png'
-logo: 'img/logos/CC_logo.png'
-favicon: 'img/icons/favicon.ico'
+logo: '/img/logos/CC_logo.png'
+favicon: '/img/icons/favicon.ico'
 disqus: 'carolcupaslab'
 
 #calendar_event: https://shorturl.at/dehmx
@@ -48,7 +48,7 @@ social:
   - title: facebook
     url: https://www.facebook.com/carolcupaslab/
   - title: twitter
-    url: hhttps://twitter.com/carolcupas/
+    url: https://twitter.com/carolcupas/
   #- title: bitbucket 
   #  url: http://bitbucket.org/jekyll
   #- title: github

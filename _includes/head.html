@@ -10,7 +10,7 @@
     <meta property="og:locale" content="es_ES"> 
     <meta property="og:locale:alternate" content="en_US" />
     <meta property="og:title" content="{%if page.title %}{{ site.title }} - {{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:url" content="{{ site.url }}{%if page.url != '/' %}{{ page.url }}{% endif %}">
     <meta property="og:image" content="{{ site.url }}{%if page.image %}{{ page.image }}{% else %}img/header-bg.jpg{% endif %}" />
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
@@ -24,8 +24,8 @@
     <meta name="twitter:card" content="{{ site.url }}{%if page.image %}{{ page.image }}{% else %}img/header-bg.jpg{% endif %}"/>
     <meta name="twitter:title" content="{%if page.title %}{{ site.title }} - {{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="twitter:site" content="@carolcupaslab" />
-    <meta name="twitter:creator" content="@carolcupaslab">
+    <meta name="twitter:site" content="@carolcupas" />
+    <meta name="twitter:creator" content="@carolcupas">
     <meta name="twitter:card" content="{%if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.slogan }}{% endif %}">
 
 
