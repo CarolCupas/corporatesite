@@ -47,8 +47,8 @@ social:
     url: https://www.instagram.com/carolcupas/
   - title: facebook
     url: https://www.facebook.com/carolcupaslab/
-  #- title: twitter
-  #  url: hhttps://twitter.com/
+  - title: twitter
+    url: hhttps://twitter.com/carolcupas/
   #- title: bitbucket 
   #  url: http://bitbucket.org/jekyll
   #- title: github
